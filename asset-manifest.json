@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/techshop-react/static/css/main.2fb04d2c.css",
-    "main.js": "/techshop-react/static/js/main.6ffb1b2f.js",
+    "main.js": "/techshop-react/static/js/main.bd6b2018.js",
     "static/media/hero.jpg": "/techshop-react/static/media/hero.31174e3664c647f44f45.jpg",
     "index.html": "/techshop-react/index.html",
     "main.2fb04d2c.css.map": "/techshop-react/static/css/main.2fb04d2c.css.map",
-    "main.6ffb1b2f.js.map": "/techshop-react/static/js/main.6ffb1b2f.js.map"
+    "main.bd6b2018.js.map": "/techshop-react/static/js/main.bd6b2018.js.map"
   },
   "entrypoints": [
     "static/css/main.2fb04d2c.css",
-    "static/js/main.6ffb1b2f.js"
+    "static/js/main.bd6b2018.js"
   ]
 }
