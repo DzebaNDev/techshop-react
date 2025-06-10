@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Принтер HP LaserJet Pro M15w",
+    "brand": "HP",
+    "price": 3499,
+    "image": "/images/printer-hp.jpg"
+  },
+  {
+    "id": 2,
+    "name": "МФУ Canon PIXMA G2411",
+    "brand": "Canon",
+    "price": 4999,
+    "image": "/images/canon-mfu.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Ноутбук Lenovo IdeaPad 3",
+    "brand": "Lenovo",
+    "price": 17999,
+    "image": "/images/lenovo-laptop.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Принтер Epson EcoTank L3250",
+    "brand": "Epson",
+    "price": 6999,
+    "image": "/images/epson-printer.jpg"
+  },
+  {
+    "id": 5,
+    "name": "МФУ Brother DCP-T520W",
+    "brand": "Brother",
+    "price": 5999,
+    "image": "/images/brother-mfu.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ноутбук ASUS VivoBook 15",
+    "brand": "ASUS",
+    "price": 21499,
+    "image": "/images/asus-laptop.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Ноутбук Acer Aspire 7",
+    "brand": "Acer",
+    "price": 23999,
+    "image": "/images/acer-laptop.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Принтер Canon i-SENSYS LBP223dw",
+    "brand": "Canon",
+    "price": 7299,
+    "image": "/images/canon-lbp.jpg"
+  },
+  {
+    "id": 9,
+    "name": "МФУ HP Smart Tank 515",
+    "brand": "HP",
+    "price": 6399,
+    "image": "/images/hp-smart-tank.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Ноутбук Dell Inspiron 15",
+    "brand": "Dell",
+    "price": 19999,
+    "image": "/images/dell-laptop.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Принтер Samsung Xpress M2020",
+    "brand": "Samsung",
+    "price": 2999,
+    "image": "/images/samsung-printer.jpg"
+  },
+  {
+    "id": 12,
+    "name": "МФУ Epson L3150",
+    "brand": "Epson",
+    "price": 5899,
+    "image": "/images/epson-l3150.jpg"
+  }
+]

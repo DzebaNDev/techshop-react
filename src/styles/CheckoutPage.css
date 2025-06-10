@@ -1,0 +1,76 @@
+.checkout-form {
+  max-width: 500px;
+  margin: 1rem auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.checkout-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+}
+
+.checkout-form input,
+.checkout-form textarea {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.checkout-form .error {
+  color: red;
+  font-size: 0.85rem;
+}
+
+.thank-you {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 60vh;
+  background-color: #f9f9f9;
+  padding: 2rem;
+}
+
+.thank-you-box {
+  background-color: white;
+  padding: 2.5rem 3rem;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.thank-you-box h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.thank-you-box p {
+  font-size: 1.1rem;
+  color: #444;
+  margin: 0.5rem 0;
+}
+
+.thank-you-buttons {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.thank-you-buttons button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 0.7rem 1.4rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.thank-you-buttons button:hover {
+  background-color: #0056b3;
+}
